@@ -1,0 +1,52 @@
+body{
+	background:#48dbfb;
+	font-family: sans-serif;
+}
+ 
+.kalkulator{
+	width: 335px;
+	background: #feca57;
+	margin: 100px auto;
+	padding: 10px 20px 50px 20px;
+	border-radius: 50px;
+	box-shadow: 10px 10px 30px 10px #ff6b6b;
+}
+ 
+.bil{
+	width: 300px;
+	margin: 5px;
+	border: groove;
+	font-size: 16pt;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px #0abde3;
+	padding: 10px;	
+}
+ 
+.opt{
+	font-size: 16pt;
+	border: groove;
+	width: 215px;
+	margin: 5px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 2px #0abde3;
+	padding: 10px;
+}
+ 
+.tombol{
+	background: #0abde3;
+	border-top: none;
+
+	border-left: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	color: #222f3e;
+	font-size: 15pt;
+	border-bottom:6px solid #222f3e;
+}
+
+.judul{
+	text-align: center;
+	color: #222f3e;
+	text-shadow: 5px 5px 5px #0abde3;
+	font-weight: bold;
+}
